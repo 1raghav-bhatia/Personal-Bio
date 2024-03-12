@@ -2,10 +2,22 @@
 title: "Personal Bio"
 ---
 
-This is a Quarto website.
+### Raghav Bhatia
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#### HOBBIES
 
-```{r}
-1 + 1
-```
+1. Reading
+2. Lawn Tennis
+3. Electronic Keyboard
+
+#### DATE OF BIRTH
+
+3rd June 2004 
+
+#### Place of Birth
+
+Dubai, United Arab Emirates
+
+#### LANGUAGES KNOWN
+
+English and Hindi
